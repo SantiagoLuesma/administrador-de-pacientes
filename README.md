@@ -11,4 +11,5 @@ https://administrador-de-citas-santiagoluesma.netlify.app/
 - Se utilizaron PropTypes.
 - Se usó Local Storage para almacenar las citas.
 - Renderizado condicional.
-
+- Validación de campos del formulario.
+- Skeleton para el maquetado.
